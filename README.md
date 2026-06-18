@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Hi, I'm Ahmet from Turkey. I'm passionate about programming and technology. I enjoy building simple yet impactful projects, always striving to create something meaningful. Life is short, and while we're here, I believe it's important to leave a positive mark behind.
 <!--
 **Mleqlin/Mleqlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
